@@ -1,0 +1,293 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-02-18 19:47+0900\n"
+"PO-Revision-Date: 2017-02-18 19:57+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: archive.php:30 search.php:6
+msgid "Documents"
+msgstr "ドキュメント"
+
+#: functions.php:31
+msgid "Sorry, you've already recorded your feedback!"
+msgstr "申し訳ございませんが、ページが見つかりませんでした。"
+
+#: functions.php:46
+msgid "Thanks for your feedback!"
+msgstr "フィードバックありがとうございました！"
+
+#: functions.php:59 functions.php:60
+msgid "Docs"
+msgstr "ドキュメント"
+
+#: functions.php:61
+msgid "Parent Doc:"
+msgstr "親ドキュメント"
+
+#: functions.php:62
+msgid "All Docs"
+msgstr "全てのドキュメント"
+
+#: functions.php:63
+msgid "Add New Doc"
+msgstr "新しいドキュメントを追加"
+
+#: functions.php:64
+msgid "Add New"
+msgstr "新規追加"
+
+#: functions.php:65
+msgid "New Doc"
+msgstr "新しいドキュメント"
+
+#: functions.php:66
+msgid "Edit Doc"
+msgstr "ドキュメントを編集"
+
+#: functions.php:67
+msgid "Update Doc"
+msgstr "ドキュメントを更新"
+
+#: functions.php:68
+msgid "View Doc"
+msgstr "ドキュメントを表示"
+
+#: functions.php:69
+msgid "Search Docs"
+msgstr "ドキュメントを検索"
+
+#: functions.php:70
+msgid "Not found"
+msgstr "見つかりませんでした"
+
+#: functions.php:71
+msgid "Not found in Trash"
+msgstr "ゴミ箱に見つかりませんでした"
+
+#: functions.php:74
+msgid "Doc"
+msgstr "ドキュメント"
+
+#: functions.php:75
+msgid "Post type for Documentation "
+msgstr "ドキュメントのポストタイプ"
+
+#: lib/cleanup.php:193
+msgid "Read more &rarr;"
+msgstr "もっと読む &rarr;"
+
+#: lib/custom.php:12
+msgid "Home"
+msgstr "ホーム"
+
+#: lib/custom.php:34
+msgid "Search results for"
+msgstr "検索結果："
+
+#: lib/custom.php:109
+msgid "Posts tagged"
+msgstr "タグ付きのポスト"
+
+#: lib/custom.php:114
+msgid "Articles posted by"
+msgstr "投稿者："
+
+#: lib/custom.php:117
+msgid "Error 404"
+msgstr "エラー404"
+
+#: lib/custom.php:122
+msgid "Page"
+msgstr "ページ"
+
+#: lib/custom.php:137
+#, php-format
+msgid "Proudly powered by %s"
+msgstr "Proudly powered by %s"
+
+#: lib/custom.php:139
+#, php-format
+msgid "Theme: %1$s by %2$s"
+msgstr "テーマ: %1$s by %2$s"
+
+#: lib/customizer.php:18
+msgid "Theme Logo"
+msgstr "テーマロゴ"
+
+#: lib/customizer.php:20
+msgid "Upload your logo to replace the default Logo (dimension : 220 X 45)"
+msgstr "ロゴをアップデートしてデフォルトロゴを上書き（解像度: 220×45）"
+
+#: lib/customizer.php:26
+msgid "Upload Logo"
+msgstr "ロゴをアップデート"
+
+#: lib/customizer.php:33
+msgid "weDocs Options"
+msgstr "weDocs オプション"
+
+#: lib/customizer.php:43
+msgid "Homepage Text - header"
+msgstr "ホームページテキスト - ヘッダー"
+
+#: lib/customizer.php:55
+msgid "Homepage Text - tagline"
+msgstr "ホームページテキスト - タグ"
+
+#: lib/customizer.php:63
+#, php-format
+msgid "&copy; %d. All rights are reserved."
+msgstr "&copy; %d. All rights are reserved."
+
+#: lib/customizer.php:67
+msgid "Footer Text"
+msgstr "フッターテキスト"
+
+#: lib/init.php:11
+msgid "Primary Navigation"
+msgstr "ナビゲーション"
+
+#: lib/titles.php:11
+msgid "Latest Posts"
+msgstr "最新の投稿"
+
+#: lib/titles.php:22
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "日別アーカイブ: %s"
+
+#: lib/titles.php:24
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "月別アーカイブ: %s"
+
+#: lib/titles.php:26
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "年別アーカイブ: %s"
+
+#: lib/titles.php:29
+#, php-format
+msgid "Author Archives: %s"
+msgstr "投稿者別アーカイブ: %s"
+
+#: lib/titles.php:34
+#, php-format
+msgid "Search Results for %s"
+msgstr "%s の検索結果"
+
+#: lib/titles.php:36
+msgid "Not Found"
+msgstr "見つかりませんでした"
+
+#: lib/walker-docs.php:24
+msgid "Introduction"
+msgstr "イントロダクション"
+
+#: lib/widgets.php:8
+msgid "Primary"
+msgstr "プライマリ"
+
+#: lib/widgets.php:17
+msgid "Footer 1"
+msgstr "フッター1"
+
+#: search.php:27
+msgid "&larr; Older posts"
+msgstr "&larr; 古い投稿"
+
+#: search.php:28
+msgid "Newer posts &rarr;"
+msgstr "新しい投稿 &rarr;"
+
+#: templates/comment.php:4
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+#: templates/comment.php:5
+msgid "(Edit)"
+msgstr "(編集)"
+
+#: templates/comments.php:18
+msgid "&larr; Older comments"
+msgstr "&larr; 古いコメント"
+
+#: templates/comments.php:21
+msgid "Newer comments &rarr;"
+msgstr "新しいコメント &rarr;"
+
+#: templates/comments.php:45
+msgid "Leave a Reply"
+msgstr "返信する"
+
+#: templates/comments.php:45
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "%sに返信する"
+
+#: templates/comments.php:48
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "コメントするために<a href=\\\"%s\\\">ログイン</a>してください"
+
+#: templates/comments.php:53
+#, php-format
+msgid "Logged in as <a href=\"%s/wp-admin/profile.php\">%s</a>."
+msgstr "<a href=\\\"%s/wp-admin/profile.php\\\">%s</a>としてログインしています。"
+
+#: templates/comments.php:54
+msgid "Log out of this account"
+msgstr "アカウントからログアウト"
+
+#: templates/content-feedback.php:5
+msgid "Was this article helpful to you?"
+msgstr "この記事は役に立ちましたか？"
+
+#: templates/content-feedback.php:11 templates/content-feedback.php:12
+msgid "No votes yet"
+msgstr "投票がありません"
+
+#: templates/content-feedback.php:14
+msgid "Yes"
+msgstr "はい"
+
+#: templates/content-feedback.php:15
+msgid "No"
+msgstr "いいえ"
+
+#: templates/content-single.php:12
+msgid "Print this article"
+msgstr "この記事をプリント"
+
+#: templates/content-single.php:25
+msgid "Articles"
+msgstr "投稿"
+
+#: templates/content-single.php:38
+msgid "Still stuck?"
+msgstr "解決しませんでしたか？"
+
+#: templates/content-single.php:38
+msgid "How can we help?"
+msgstr "お手伝いします"
+
+#: templates/content-single.php:48
+#, php-format
+msgid "Updated on %s"
+msgstr "%sに更新"
+
+#: templates/entry-meta.php:2
+msgid "By"
+msgstr "By"
